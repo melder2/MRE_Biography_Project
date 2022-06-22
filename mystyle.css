@@ -1,0 +1,30 @@
+header {
+    font-size: 45px;
+    color: yellow;
+    
+}
+
+body {
+    background-color: blue;
+    color: red;
+    margin: 50px;
+    
+}
+h1{
+    border-style:solid;
+    border-color: yellow;
+    letter-spacing: 3px;
+    line-height: 160%;
+}
+img {
+    float: right;
+}
+h2{
+    color: yellow;
+}
+h3{
+    padding-top: 50px;
+}
+ol{
+    background-color: grey
+}
